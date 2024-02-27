@@ -1,13 +1,13 @@
 class Minutes extends ConsoleProgram {
 
   /**
-  * Description
-  * @author:
+  * A program that asks the user for an amount of minutes, then prints the value of days, hours and remanining minutes
+  * @author:T.Chu
   */
   
   public void run() {
     
-    // start coding here
+    //setting variables
     int intMinutes;
     int intDays;
     int intHours;
