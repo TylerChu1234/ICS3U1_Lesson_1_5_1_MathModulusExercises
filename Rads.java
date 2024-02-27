@@ -19,5 +19,6 @@ class Rads extends ConsoleProgram {
     
     // prints results
     System.out.println(dblDegrees + " degrees = " + dblRadians + " radians");
+    
   }
 }
