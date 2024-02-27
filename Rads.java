@@ -1,13 +1,13 @@
 class Rads extends ConsoleProgram {
 
   /**
-  * Description
-  * @author:
+  * A program that asks the user for an angle in degrees and then converts it to radians
+  * @author:T.Chu
   */
   
   public void run() {
     
-    // start coding here
+    // setting variables
     double dblDegrees;
     double dblRadians;
     
